@@ -52,3 +52,4 @@ Upon completing the test, publish your project to a URL (Vercel, Netlify, etc.) 
 Take your time, this is not a speed test. Make sure you understand all the requirements. If you have any doubts or questions, we are available to clarify it for you.
 
 Good luck! 🚀
+# frontend-growth-test
