@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "homepage": "https://frontend-growth-test-ihhp3nftw-bruno-vasconcellos-projects.vercel.app",
+  "homepage": "https://frontend-growth-test-bruno-vasconcellos-projects.vercel.app",
   "dependencies": {
     "lucide-react": "^0.294.0",
     "next": "14.0.2",
