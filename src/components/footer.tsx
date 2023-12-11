@@ -22,7 +22,6 @@ export const Footer = () => {
               className="text-white bg-white bg-opacity-10 px-4 py-2 rounded-lg max-w-[211px]"
               onChange={e => setLanguage(e.target.value)}
               value={language}
-              onClick={() => console.log('click')}
             >
               <option value={"en"}>English</option>
               <option value={"pt"}>Português</option>
