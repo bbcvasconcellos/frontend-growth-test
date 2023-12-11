@@ -9,7 +9,7 @@ interface ModuleCardProps {
 
 export const ModuleCard = ({ title, description, buttonText, buttonURL }: ModuleCardProps) => {
   return (
-    <div className="grid grid-rows-2 bg-bgModulesCard p-5 rounded-2xl gap-10 max-h-44 min-w-[280px] w-fit md:min-w-[397px]">
+    <div className="grid grid-rows-2 bg-bgModulesCard p-5 rounded-2xl gap-10 max-h-44 min-w-[280px] max-w-[397px] w-fit mr-6">
       <div>
         <h1 className="text-xl font-medium">{title}</h1>
         <p className="text-support-text-module">{description}</p>
